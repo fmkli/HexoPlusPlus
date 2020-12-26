@@ -1,4 +1,4 @@
-name: gul
+name: gulp
 
 on:
   push:
